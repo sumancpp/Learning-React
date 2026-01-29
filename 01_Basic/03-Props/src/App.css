@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: black;
+  color: aliceblue;
+}
+
+.parent{
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+  width: 300px;
+  padding: 20px;
+  background-color: #eccccc;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
