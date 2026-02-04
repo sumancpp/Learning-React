@@ -10,7 +10,7 @@ This app allows users to create, view, and delete notes with a clean UI and smoo
 🔗 **Live Link:**  
 notes-app-project-by-suman.netlify.app
 
-> _(Replace this link with your actual Netlify / Vercel / GitHub Pages URL)_
+> _(notes-app-project-by-suman.netlify.app)_
 
 ---
 
