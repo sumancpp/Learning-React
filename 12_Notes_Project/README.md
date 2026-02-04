@@ -6,7 +6,7 @@ This app allows users to create, view, and delete notes with a clean UI and smoo
 ---
 
 ## 🎮 Live Demo  
-👉 [Click here to see](notes-app-project-by-suman.netlify.app)  
+👉 [Click here to see](https://notes-app-project-by-suman.netlify.app)
 
 ---
 
