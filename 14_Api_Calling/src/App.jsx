@@ -14,7 +14,6 @@ const App = () => {
   //      console.log(data);  
   // }
 
-
   const [data, setData] = useState([])
   const getData = async () => {
     // const response = axios.get('https://jsonplaceholder.typicode.com/photos')
