@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  color: antiquewhite;
+}
+
+.light{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: darkcyan;
+   padding: 10px 20px;
+   font-size: x-large;
+}
+
+.dark{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: rgb(17, 10, 104);
+   padding: 10px 20px;
+   font-size: x-large;
+}
+
+.nav2{
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  font-size: x-large;
+}
+
