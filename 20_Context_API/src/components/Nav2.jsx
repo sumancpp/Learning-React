@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import { ThemeDataContext } from '../context/ThemeContext'
 
 const Nav2 = () => {
